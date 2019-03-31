@@ -1,0 +1,9 @@
+body{
+    /* background-color: #010e2c;  */
+   /* background-image: url(assets/back2.png); */
+  /*  background: rgb(2,0,36);
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(3,11,166,1) 100%);  */
+   background-color:  #1a1a1d;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
